@@ -1,1 +1,1 @@
-# kernel_patches
+# Kernel Patches for ESK Kernel
